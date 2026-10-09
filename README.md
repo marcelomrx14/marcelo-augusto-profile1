@@ -27,6 +27,13 @@ My experience includes:
 - Business Intelligence
 - Automation
 
-## Projects
+## Skills
 
-Coming soon.
+- Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+- Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- Microsoft 365 Certified: Fundamentals (MS-900)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Exam 705: Designing and Providing Microsoft Licensing Solutions to Large Organizations
+- Advanced Python - Udemy
